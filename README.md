@@ -4,3 +4,5 @@
 Languesges that I am currently learing -> 
  + <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="20px" width="20px"> JavaScript
  + <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="20px" width="20px"> CSS 3
+
+![nava0rigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nava0rigin&show_icons=true&theme=onedark)
