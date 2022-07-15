@@ -5,6 +5,8 @@
  + I love Linux.
  + I use Arch BTW!
  + Contact me at nava0rigin@gmail.com
+ 
+<hr>
 
  ### Languages that I am currently learing -> 
  + <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="20px" width="20px"> JavaScript
