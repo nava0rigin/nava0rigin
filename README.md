@@ -20,4 +20,4 @@
 
 <hr>
 
-[![nava0rigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nava0rigin&show_icons=true&theme=onedark)](https://github.com/nava0rigin/github-readme-stats)
+[![nava0rigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nava0rigin&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
