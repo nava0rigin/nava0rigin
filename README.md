@@ -1,4 +1,4 @@
-# 👋 Hello There! I'm nava0rigin <img src="me.png" height="100px" width="100px" align="right">
+# 👋 Hello There! I'm nava0rigin <img src="frame_0 (5).png" width="200px" align="right">
  + A high school student who is currently learning to code.
  + I am looking forward to improving my skills and knowledge by contributing on Open Source projects. 
  + I read a ton of Mangas and Novels.
